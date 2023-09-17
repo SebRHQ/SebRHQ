@@ -4,7 +4,7 @@
 </h1>
 <b>Szia!</b> Sebi vagyok, ismertebb nevemen Sebi. Jelenleg Szoftverfejlesztő és -tesztelő szakon tanulok egy 5 éves technikumban. Eddig nagyon nem kedveltem a githubot, de úgy döntöttem elkezdem használni, és eléggé megtetszett. Örülök, hogy meglátogattad a profilomat, remélem valami tetszeni fog!<hr>
 
-<img src="media/git-Projektek.png">
+<img src="media/git-Projektek2.png">
 
  - KáoszCraft
  - Mesterfokon Klub
