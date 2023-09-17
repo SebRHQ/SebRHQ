@@ -16,6 +16,6 @@ Jelenleg a sulimnak készítek egy minecraft szervert, hogy promotáljuk az isko
 
 *Tervben hamarosan több :3*
 <hr><p align="center">
-💓Egy csillagot elfogadok 💓<br>
+🌟💓Egy csillagot elfogadok 💓🌟<br>
 The end
 </p>
