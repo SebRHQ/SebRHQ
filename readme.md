@@ -1,1 +1,1 @@
-<img src="https://github.com/AstraaDev/AstraaDev/raw/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/SebRHQ/SebRHQ/blob/main/sebRbanner.png">
